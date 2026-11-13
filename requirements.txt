@@ -1,0 +1,4 @@
+
+# Notebook environment
+jupyter
+ipykernel
