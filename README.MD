@@ -69,8 +69,7 @@ The implementation details, cloud services, and execution workflow will be docum
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cloud-rag-conversational-assistant.git
-cd cloud-rag-conversational-assistant
+git clone https://github.com/ngualteros/Cloud-RAG-Conversational-AI-Assistant.git
 ```
 
 ### 2. Create a Virtual Environment
